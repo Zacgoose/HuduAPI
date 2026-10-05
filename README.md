@@ -205,6 +205,7 @@ False
     Set-HuduVLANZone
     Set-HuduRackStorageItem
     Set-HuduRackStorage
+    Set-HuduRequestOption
     Set-HuduVLAN
     Set-HuduVLANZone
     Set-HuduWebsite
